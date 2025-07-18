@@ -18,7 +18,7 @@ Este é o repositório do meu site de portfólio pessoal, onde apresento minhas 
 
 1. Clone este repositório
 ```bash
-git clone https://github.com/seu-usuario/portfolio.git
+git clone https://github.com/seu-usuario/Rodrigo-Onofri.git
 ```
 2. Instale a extensão Live Server do Vscode
 3. Clique em Go Live no canto inferior direito
