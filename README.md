@@ -1,6 +1,6 @@
 # Portfolio de Rodrigo Onofri
 
-Este é o repositório do meu site de portfólio pessoal, onde apresento minhas habilidades, serviços e projetos como desenvolvedor fullstack.
+Este é o repositório do meu site de portfólio pessoal, onde apresento minhas habilidades, serviços e projetos como desenvolvedor front-end.
 
 ## 🚀 Tecnologias Utilizadas
 
