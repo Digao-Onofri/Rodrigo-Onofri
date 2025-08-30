@@ -1,38 +1,52 @@
-# Portfolio de Rodrigo Onofri
+# My Portfolio
 
-Este é o repositório do meu site de portfólio pessoal, onde apresento minhas habilidades, serviços e projetos como desenvolvedor front-end.
+This repository includes my personal website, where I share some of my techniques in front-end development.
 
-## 🚀 Tecnologias Utilizadas
+---
 
-- **HTML** - Armazenar todos os conteúdos do site
-- **JavaScript** - Código para copiar o email para a área de transferência
-- **CSS** - Estilização do site
+## 🚀 Tecnologies 
 
-## 📋 Funcionalidades
+- **HTML** - Stores all the contents of the website.
+- **JavaScript** - Function to copy my email to the clipboard of the user.
+- **CSS** - Website style and responsiveness.
 
-- Design responsivo para todos os dispositivos
-- Exibição de projetos e serviços
-- Seções organizadas com navegação intuitiva
+---
 
-## 🛠️ Instalação e Uso
+## 📋 Functionality
 
-1. Clone este repositório
+- Practice front-end programming.
+- Responsive design for all kinds of dispositives.
+- Show my personal projects.
+
+---
+
+## 🛠️ Usage and Installing
+
+1. Clone the repository.
 ```bash
 git clone https://github.com/seu-usuario/Rodrigo-Onofri.git
 ```
-2. Instale a extensão Live Server do Vscode
-3. Clique em Go Live no canto inferior direito
+2. Install the Live Server extension.
+3. Click in Go Live in the bottom-right corner.
 
-## 🌐 Hospedagem
+---
 
-Este site está hospedado na Vercel.
+## 🌐 Deployment
 
-## 📝 Licença
+This [Website](https://portfolio-rodrigo-onofri.vercel.app) is deployed in Vercel.  
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+---
 
-## 📞 Contato
+## 📝 License
 
-- **Email**: contact.rodrigo.onofri@gmail.com
-- **LinkedIn**: [linkedin.com/in/rodrigo-onofri](https://linkedin.com/in/rodrigo-onofri)
-- **GitHub**: [github.com/Digao-Onofri](https://github.com/Digao-Onofri)
+This project follow the MIT License. Take a look in the file [LICENSE](LICENSE) for more details.
+
+---
+
+## 📞 More informations
+
+Feel free to connect with me on Linkedin:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Rodrigo-Onofri)
+
+My professional email: contact.rodrigo.onofri@gmail.com
