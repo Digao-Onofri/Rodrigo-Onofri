@@ -44,7 +44,7 @@ Rodrigo-Onofri/
 git clone https://github.com/seu-usuario/Rodrigo-Onofri.git
 ```
 2. Install the Live Server extension.
-3. Click on Go Live in the bottom-right corner.
+3. Click on Go Live at the bottom-right corner.
 
 ---
 
