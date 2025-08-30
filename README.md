@@ -12,6 +12,23 @@ This repository includes my personal website, where I share some of my technique
 
 ---
 
+## 📂 Repository Structure
+
+```bash
+Rodrigo-Onofri/
+├── pt/
+    ├── assets/     # All the pictures of the website
+    ├── js/         # Function to copy email to clipboard
+    ├── style/      # Style of the website
+    ├── views/      # Way to organize the Projects and About 
+    └── index.html  # Home page
+├── LICENSE
+└── README.md
+
+```
+
+--- 
+
 ## 📋 Functionality
 
 - Practice front-end programming.
